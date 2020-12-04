@@ -61,6 +61,7 @@ input[type="checkbox"] {
 .result-container #result {
   word-wrap: break-word;
   max-width: calc(100% - 40px);
+  color: rgb(255, 17, 17);
 }
 
 .result-container .btn {
